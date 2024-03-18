@@ -1,0 +1,163 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.c1 {
+  background-color: #1f2937;
+}
+
+a,
+a::after {
+  text-decoration: none;
+  color: #e5e7eb;
+}
+
+.upper-menu {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+button {
+  border: none;
+  background: #3882f6;
+  border-radius: 8px;
+  margin-top: 10px;
+  padding: 7px 22px;
+  color: #f9faf8;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  margin: auto;
+  gap: 20px;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.contentc1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 60px 140px;
+}
+
+h1 {
+  width: 300px;
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+  margin: 0;
+}
+
+.subtext {
+  width: 370px;
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 0;
+}
+
+.principalimg {
+  height: 200px;
+}
+.c2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+.icon {
+  height: 100px;
+}
+.img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+.images {
+  display: flex;
+}
+
+.text2 {
+  text-align: center;
+  width: 150px;
+}
+
+.c3 {
+  display: flex;
+  flex-direction: column;
+
+  font-weight: lighter;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 60px;
+  background-color: #e5e7eb;
+  padding: 100px;
+}
+
+cite {
+  width: 750px;
+  font-size: 36px;
+  color: #1f2937;
+}
+
+.author {
+  font-size: 20px;
+  margin-left: 550px;
+  font-weight: bold;
+}
+
+.c4 {
+  display: flex;
+  justify-content: center;
+}
+.contentc4 {
+  display: flex;
+  background-color: #3882f6;
+  padding: 40px 100px;
+  margin: 0px 60px 60px;
+  border-radius: 8px;
+  width: 700px;
+}
+
+.signupbtn {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.principaltxt {
+  font-size: 24px;
+  color: #f9faf8;
+  margin: 0;
+}
+.subtext2 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.signup {
+  border: solid 2px #e5e7eb;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 30px;
+}
