@@ -2,4 +2,14 @@ A landing page made with HTML and CSS (mostly flexbox) as a part of <a href="htt
 
 Credits for the images used:
 
-<a href="https://pixabay.com/users/guvo59-9285194/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4795325">Gundula Vogel</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4795325">Pixabay</a>
+Photo by <a href="https://unsplash.com/@grstocks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">GR Stocks</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-person-holding-glass-Iq9SaJezkOE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@ospanali?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">OSPAN ALI</a> on <a href="https://unsplash.com/photos/woman-in-black-crew-neck-shirt-6xv4A1VA1rU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@jassirjonis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jassir Jonis</a> on <a href="https://unsplash.com/photos/man-in-black-crew-neck-shirt-QWa0TIUW638?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@jakenackos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jake Nackos</a> on <a href="https://unsplash.com/photos/woman-in-white-crew-neck-shirt-smiling-IF9TK5Uy-KI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@nicotitto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">nrd</a> on <a href="https://unsplash.com/photos/woman-in-blue-crew-neck-shirt-ZmmAnliy1d4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+    
+    
